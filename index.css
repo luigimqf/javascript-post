@@ -1,5 +1,7 @@
 :root{
   font-size: 62.5%;
+  --main-color: #2c3e50;
+  --side-color: #34495e ;
 }
 
 *{

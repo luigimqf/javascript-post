@@ -35,5 +35,4 @@ async function printTable(){
   })
 }
 
-// getInfoPerson();
-// printTable();
+printTable();
